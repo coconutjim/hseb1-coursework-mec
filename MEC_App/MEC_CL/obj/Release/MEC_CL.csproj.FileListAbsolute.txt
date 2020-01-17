@@ -1,0 +1,15 @@
+C:\Users\андрей\Desktop\cursond\SMEC_FULL\MEC_CL\bin\Release\MEC_CL.dll
+C:\Users\андрей\Desktop\cursond\SMEC_FULL\MEC_CL\bin\Release\MEC_CL.pdb
+C:\Users\андрей\Desktop\cursond\SMEC_FULL\MEC_CL\obj\Release\ResolveAssemblyReference.cache
+C:\Users\андрей\Desktop\cursond\SMEC_FULL\MEC_CL\obj\Release\MEC_CL.dll
+C:\Users\андрей\Desktop\cursond\SMEC_FULL\MEC_CL\obj\Release\MEC_CL.pdb
+C:\Users\андрей\Desktop\THE MOST IMPORTANT\SMEC_FULL\MEC_CL\bin\Release\MEC_CL.dll
+C:\Users\андрей\Desktop\THE MOST IMPORTANT\SMEC_FULL\MEC_CL\bin\Release\MEC_CL.pdb
+C:\Users\андрей\Desktop\THE MOST IMPORTANT\SMEC_FULL\MEC_CL\obj\Release\ResolveAssemblyReference.cache
+C:\Users\андрей\Desktop\THE MOST IMPORTANT\SMEC_FULL\MEC_CL\obj\Release\MEC_CL.dll
+C:\Users\андрей\Desktop\THE MOST IMPORTANT\SMEC_FULL\MEC_CL\obj\Release\MEC_CL.pdb
+C:\Users\андрей\Desktop\THE MOST IMPORTANT\MEC_App\MEC_CL\bin\Release\MEC_CL.dll
+C:\Users\андрей\Desktop\THE MOST IMPORTANT\MEC_App\MEC_CL\bin\Release\MEC_CL.pdb
+C:\Users\андрей\Desktop\THE MOST IMPORTANT\MEC_App\MEC_CL\obj\Release\ResolveAssemblyReference.cache
+C:\Users\андрей\Desktop\THE MOST IMPORTANT\MEC_App\MEC_CL\obj\Release\MEC_CL.dll
+C:\Users\андрей\Desktop\THE MOST IMPORTANT\MEC_App\MEC_CL\obj\Release\MEC_CL.pdb
