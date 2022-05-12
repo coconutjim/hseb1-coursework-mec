@@ -1,8 +1,8 @@
 # hseb1-coursework-mec
 2013\. Study project (coursework at 1st bachelor course). C# desktop app with the implementation of Mind Evolutionary Computation (MEC, evolutionary algorithm), dynamic visualization provided.
 ## Structure
-* `/MEC_CL`: library with MEC algorithm
-* `/MEC_Form`: GUI
+* `/MEC_App/MEC_CL`: library with MEC algorithm
+* `/MEC_App/MEC_Form`: GUI
 ## Features
 1. Implementation of MEC algorithm (cycled similartaxis and dissimilation)
 2. Customizing input function (2-, 3- or 4-dimensional functions available + user input) and search bounds
