@@ -1,5 +1,5 @@
 # hseb1-coursework-mec
-2013\. Study project (coursework at 1st bachelor course). C# desktop app with the implementation of Mind Evolutionary Computation (MEC, evolutionary algorithm), dynamic visualisation provided.
+2013\. Study project (coursework at 1st bachelor course). C# desktop app with the implementation of Mind Evolutionary Computation (MEC, evolutionary algorithm), dynamic visualization provided.
 ## Structure
 * `/MEC_CL`: library with MEC algorithm
 * `/MEC_Form`: GUI
