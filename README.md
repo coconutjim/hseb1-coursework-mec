@@ -8,7 +8,7 @@
 2. Customizing input function (2-, 3- or 4-dimensional functions available + user input) and search bounds
 3. Customizing algorithm parameters (population sizes, Omega)
 4. Interactive plot view
-5. Interactive dynamic algorithm visualization for 2D functions (instant/step-by-step modes)
+5. Interactive dynamic algorithm visualization for 2D functions (instant and step-by-step modes)
 6. Automized multiple (up to 100000000) launches and writing result to a file for analyzing statistics
 ## Technology
 C# (Windows.Forms, ComponentModel.BackgroundWorker, OpenTK.Graphics.OpenGL)
